@@ -6,5 +6,5 @@
 # Password-Genrator
 This is a GUI application using tkinter,This application allows user to generate password and this repository contains executable file too
 # Module-Used
--Random
--tkinter
+- Random
+- tkinter
